@@ -1,2 +1,2 @@
 # chess-game
-SNU 2024 Spring Semester Computer Programming Lecture Final Project
+SNU Spring 2024 Computer Programming Class Final Project
